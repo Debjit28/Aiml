@@ -1,2 +1,2 @@
-# Aiml
-this is to show my work in Aiml lab in upes from semester-3
+#Ai-Ml
+this is to show my work in Ai-Ml in upes dehradune for my semester-3 lab valuation.
